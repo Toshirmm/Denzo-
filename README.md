@@ -3,7 +3,7 @@
   <a href="https://chat.whatsapp.com/JFNXyoRTf4t6e9GTaM2Oe6)">
     <img alt=Support height="550" src="https://i.imgur.com/l2nUnSK.jpeg"> 
     </p>
-<h1 align="center"> Denzo-MD
+<h1 align="center"> 𝑫𝑬𝑵𝒁𝑶-𝑴𝑫 𝑩𝑶𝑻
 </h1>
 <p align="center"> 
  ! I Am A Whatsapp Bot Created By Denzo uchiwa and recoded by  EXCEL To Do Everything That Is Possible On WhatsApp Based On WhatsApp Multi Device(MD) Support.
