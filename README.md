@@ -9,7 +9,7 @@
  ! I Am A Whatsapp Bot Created By Denzo uchiwa and recoded by  EXCEL To Do Everything That Is Possible On WhatsApp Based On WhatsApp Multi Device(MD) Support.
 
   <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Denzo+Ops+One&size=50&pause=1000&color=1BBFDAFF&center=true&width=910&height=100&lines=THIS IS+Denzo-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+EXCEL;PUBLIC+RELESED; COMING+SOON...;TEAM BLACK-MD." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Denzo+Ops+One&size=50&pause=1000&color=1BBFDAFF&center=true&width=910&height=100&lines=THIS IS+Denzo-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+EXCEL;PUBLIC+RELESED; COMING+SOON...;TEAM Denzo Uchiwa-MD." alt="Typing SVG" /></a>
   </p>
   <br>
 
