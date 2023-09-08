@@ -1,15 +1,15 @@
 </p>
 <p align="center">
-  <a href="https://chat.whatsapp.com/HBCXDp3HIb8GzHBBg6MplO)">
-    <img alt=Support height="550" src="https://telegra.ph/file/38b2287de9e0f6b8ecab1.jpg"> 
+  <a href="https://chat.whatsapp.com/JFNXyoRTf4t6e9GTaM2Oe6)">
+    <img alt=Support height="550" src="https://i.imgur.com/l2nUnSK.jpeg"> 
     </p>
-<h1 align="center"> BLACK-MD MULTI DEVICE BOT
+<h1 align="center"> Denzo-MD
 </h1>
 <p align="center"> 
- ! I Am A Whatsapp Bot Created By sam pandey and recoded by  EXCEL To Do Everything That Is Possible On WhatsApp Based On WhatsApp Multi Device(MD) Support.
+ ! I Am A Whatsapp Bot Created By Denzo uchiwa and recoded by  EXCEL To Do Everything That Is Possible On WhatsApp Based On WhatsApp Multi Device(MD) Support.
 
   <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BBFDAFF&center=true&width=910&height=100&lines=THIS IS+BLACK-MD ;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+EXCEL;PUBLIC+RELESED; COMING+SOON...;TEAM BLACK-MD." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Denzo+Ops+One&size=50&pause=1000&color=1BBFDAFF&center=true&width=910&height=100&lines=THIS IS+Denzo-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+EXCEL;PUBLIC+RELESED; COMING+SOON...;TEAM BLACK-MD." alt="Typing SVG" /></a>
   </p>
   <br>
 
@@ -36,7 +36,7 @@
 1. ***Get [SESSION-ID](https://replit.com/@Excelottah/BLACK-Md) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
 --- 
 # ```Fork Repo```
-2. ***Click [FORK](https://github.com/excelottah6/BLACK-MD/fork)***
+2. ***Click [FORK](https://github.com/Denzo-MD/Denzo-/fork)***
  
 ---
 
