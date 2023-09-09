@@ -33,7 +33,7 @@
 ---
 # ```Scan QR Code```
 
-1. ***Get [SESSION-ID](https://replit.com/@Excelottah/BLACK-Md) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
+1. ***Get [SESSION-ID](https://replit.com/@Smith2023/DENZO-UCHIWA-4#index.js) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
 --- 
 # ```Fork Repo```
 2. ***Click [FORK](https://github.com/Denzo-MD/Denzo-/fork)***
